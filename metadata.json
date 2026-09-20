@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Pecahan Kelas 6",
+  "description": "Media pembelajaran interaktif matematika kelas 6 SD untuk mengidentifikasi dan merubah berbagai bentuk pecahan dengan 100 soal leveling, gamifikasi, dan audio Web Audio API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
